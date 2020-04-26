@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"io/ioutil"
-	"pbytearray"
+	"github.com/jackHedaya/vpress/pbytearray"
 )
 
 func check(err error) {
